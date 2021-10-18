@@ -1,0 +1,2 @@
+# RNNativeSwiftModule
+RNNativeSwiftModule
